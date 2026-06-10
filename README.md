@@ -1,2 +1,19 @@
-# face-mask-detection
-Built a real-time face mask detection system using Python, OpenCV, and CNN-based deep learning models. Integrated live video processing to accurately classify mask and no-mask cases for public safety applications.
+# Face Mask Detection
+
+A real-time face mask detection system built using Python, OpenCV, and Deep Learning.
+
+## Features
+- Real-time webcam detection
+- Mask / No-Mask classification
+- CNN-based model
+
+## Tech Stack
+- Python
+- OpenCV
+- TensorFlow
+- Keras
+
+## How to Run
+1. Clone the repository
+2. Install requirements
+3. Run main.py
